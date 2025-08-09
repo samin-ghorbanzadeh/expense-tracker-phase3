@@ -63,11 +63,11 @@ python main.py visualize
 
 ### Daily Expenses Line Chart
 
-![Line Chart](images/line_chart.png)
+![Line Chart](line_chart.png)
 
 ### Category-wise Bar Chart
 
-![Bar Chart](images/bar_chart.png)
+![Bar Chart](bar_chart.png)
 
 ---
 
